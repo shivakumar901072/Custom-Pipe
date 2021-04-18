@@ -2,12 +2,12 @@
     text-align: center;
     justify-content: center;
     padding-top: 5%;
-    background-color:#5d28ed;
+    background-image: linear-gradient(to right, Blue, rgb(15, 15, 141));
     color:white;
     border-radius: 20px;
-    width: 60vh;
-    height: 50vh;
-    margin-top: 10%;
+    width: 80vh;
+    height: 60vh;
+    margin-top: 5%;
     margin-left: 35%;
     font-family:cursive;
 }
